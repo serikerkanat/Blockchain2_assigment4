@@ -52,3 +52,7 @@ Service	Use Case	Free Tier
 CoinGecko	Price/Market Data	Yes
 CryptoPanic	News Aggregation	Limited
 Ollama	Local LLM	Free
+
+![Снимок экрана 2025-05-18 140333](https://github.com/user-attachments/assets/51f0f034-882c-4301-b008-7b949cd005ef)
+
+![Снимок экрана 2025-05-18 140337](https://github.com/user-attachments/assets/89609c37-43c3-4dd9-9fc2-2f73545941c0)
